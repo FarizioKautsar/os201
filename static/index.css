@@ -1,0 +1,223 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Jost', sans-serif;
+    color: white;
+    font-weight: 300;
+    background-color: #171717;
+    background-repeat: no-repeat !important;
+    height: 100%;
+}
+
+.parallax {
+    box-sizing: border-box;
+    transform-style: preserve-3d;
+    perspective: 1px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 100vh;
+    scroll-behavior: smooth;
+}
+
+::selection {
+    color: white;
+    background: #FFEE54 ;
+    opacity: 100%;
+}
+
+.background1 {height: 100%;}
+.background2 {height: 100%;}
+.background3 {height: 100%;}
+
+.background1:before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-color: aqua;
+    background: 
+        url('images/decoratives/polka.svg'), 
+        url('images/decoratives/lines.svg'), 
+        url('images/decoratives/polka.svg'), 
+        url('images/decoratives/lines.svg');
+    background-position: 
+        110% 10%, 
+        -5% 30%, 
+        100% 60%,
+        -20% 100%;
+    background-size:  20vw auto, 20vw auto, 20vw auto, 20vw auto;
+    background-repeat: no-repeat;
+    z-index: -200;
+    transform: translateZ(-0.5px) scale(1.5);
+    position: absolute;
+    overflow: visible;
+}
+
+.background2:before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: 
+        url('images/decoratives/lines.svg'), 
+        url('images/decoratives/polka.svg'), 
+        url('images/decoratives/lines.svg'), 
+        url('images/decoratives/polka.svg');
+    background-position: 
+        60% 0%, 
+        40% 50%,
+        100% 70%, 
+        50% 100%;
+    background-size: 15vw auto, 15vw auto, 15vw auto, 15vw auto;
+    background-repeat: no-repeat;
+    z-index: -300;
+    transform: translateZ(-1px) scale(2);
+    position: absolute;
+    opacity: 50%;
+}
+
+.background3:before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: 
+        url('images/decoratives/polka.svg'), 
+        url('images/decoratives/lines.svg'), 
+        url('images/decoratives/lines.svg'), 
+        url('images/decoratives/polka.svg');
+    background-position: 
+        30% 0%, 
+        65% 35%,
+        60% 60%, 
+        20% 70%;
+    background-size: 10vw auto, 10vw auto, 10vw auto, 10vw auto;
+    background-repeat: no-repeat;
+    z-index: -400;
+    transform: translateZ(-1.5px) scale(2.5);
+    position: absolute;
+    opacity: 25%;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+/* Track */
+::-webkit-scrollbar-track {
+    background: #171717;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #FFEE54;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: white;
+}
+
+.landing {
+    height: 100vh;
+    /* background: url('images/landing_back.png'); */
+    background-size: cover;
+    background-position: bottom right;
+    overflow: visible;
+    background-repeat: no-repeat;
+    z-index: 1000;
+}
+
+.divider {height: 150px;}
+.medium {height: 50px;}
+.small {height: 30px;}
+
+hr {border:none; height: 1px; color: #FFEE54; background-color: white;}
+h1 {font-family: 'Archivo Black', sans-serif; font-size: 96px; -webkit-text-stroke: 1px white; color: rgba(0, 0, 0, 0); max-width: 900px; }
+h2 {font-family: 'Archivo Black', sans-serif; font-size: 36px;}
+h3 {font-family: 'Jost', sans-serif; font-size: 24px;}
+h4 {font-family: 'Archivo Black', sans-serif; font-size: 24px;}
+p {font-family: 'Jost', sans-serif; font-size: 18px;}
+
+.landing_paragraph {
+    margin-top: 60px;
+    max-width: 400px;
+    font-weight: 300;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.extra_margin {
+    padding: 0px 30px;
+}
+
+.segment_button a {margin-right: 15px; margin-top: 15px;}
+
+.mybutton {
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #FFEE54;
+    padding: 5px 30px;
+    font-weight: 500;
+    text-decoration: none;
+    color: white;
+    transition: 150ms;
+    z-index: 300;
+}
+
+.mybutton:hover {
+    background-color: #FFEE54;
+    box-shadow: 0px 4px 20px rgba(255, 238, 84, 0.25);
+    text-decoration: none;
+    color: #448FFF;
+}
+
+.invert {
+    background-color: #FFEE54;
+    color: #171717;
+}
+
+.invert:hover {
+    background-color: #171717;
+    color: white;
+}
+
+.mycard {
+    border: 2px solid #FFEE54;
+    background-color: #171717;
+    height: 100%;
+    min-width: 300px;
+    transition: 300ms ease-out;
+    overflow: hidden;
+    cursor: pointer;
+    margin: 15px 0px;
+    padding: 30px;
+}
+
+.mycard:hover {
+    background-color: #FFEE54;
+    color: #171717;
+}
+
+.frame {position: relative; top: -50px; opacity: 0; transition: 500ms !important;}
+.fromleft {top: 0px; left : -70px;}
+.fromright {top: 0px; left : 70px;}
+.frombottom {top: 50px;}
+.appear {top: 0px; left: 0px; opacity: 100; transform: rotate(0deg) scale(1);}
+
+@media only screen and (max-width: 750px) {
+    h1 {font-size: 52px;}
+    .background1:before {background: none;}
+    .background2:before {background: none;}
+    .background3:before {
+        background-position: 
+        30% 0%, 
+        65% 25%,
+        130% 50%, 
+        10% 80%;
+        background-size: 60vw auto, 70vw auto, 60vw auto, 80vw auto; opacity: 50;
+    }
+}
