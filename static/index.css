@@ -135,8 +135,10 @@ hr {border:none; height: 1px; color: #FFEE54; background-color: white;}
 h1 {font-family: 'Archivo Black', sans-serif; font-size: 96px; -webkit-text-stroke: 1px white; color: rgba(0, 0, 0, 0); max-width: 900px; }
 h2 {font-family: 'Archivo Black', sans-serif; font-size: 36px;}
 h3 {font-family: 'Jost', sans-serif; font-size: 24px;}
-h4 {font-family: 'Archivo Black', sans-serif; font-size: 24px;}
+h4 {font-family: 'Archivo Black', sans-serif; font-size: 24px; color: white;}
 p {font-family: 'Jost', sans-serif; font-size: 18px;}
+a {text-decoration: none !important;}
+a:hover {text-decoration: none !important;}
 
 .landing_paragraph {
     margin-top: 60px;
@@ -155,7 +157,7 @@ p {font-family: 'Jost', sans-serif; font-size: 18px;}
     padding: 0px 30px;
 }
 
-.segment_button a {margin-right: 15px; margin-top: 15px;}
+.segment_button a {margin-left: 15px; margin-top: 15px;}
 
 .mybutton {
     background-color: rgba(0, 0, 0, 0);
