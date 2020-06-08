@@ -2,21 +2,20 @@ Script started on 2020-06-08 17:33:09+07:00 [TERM="xterm-256color" TTY="/dev/tty
 To run a command as administrator (user "root"), use "sudo <command>".
 See "man sudo_root" for details.
 
-]0;fariziokautsar@DESKTOP-K26Q6JD: /mnt/e/College/SMT 4/OS/os201/UAS[01;32mfariziokautsar@DESKTOP-K26Q6JD[00m:[01;34m/mnt/e/College/SMT 4/OS/os201/UAS[00m$ PS1="$ "][K
 $ echo $GitHubUser
 FarizioKautsar
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ PS1="\$(eval \$PSTAMP)"
-200608-173331-ab1d-UAS/> ls - F[K[KF
+200608-173331-ab1d-UAS/> ls -F
 [0m[01;32m0000-mypub.txt[0m*  [01;32m0001-mytest.txt[0m*  [01;32m0002-mytest.txt.asc[0m*
 200608-173338-405a-UAS/> sha1sum 0000-mypub.txt 0001-mytest.txt 0002-mytest.txt.asc > SHA1SUM
 200608-173356-62fe-UAS/> sha1sum -c SHA1SUM 
 0000-mypub.txt: OK
 0001-mytest.txt: OK
 0002-mytest.txt.asc: OK
-200608-173401-1641-UAS/> gpg2 -sb -a SHA1SUM [1P
-200608-173412-54f3-UAS/> gpg2 --verify SHA1SUM.asc [C[1P
+200608-173401-1641-UAS/> gpg -sb -a SHA1SUM
+200608-173412-54f3-UAS/> gpg --verify SHA1SUM.asc
 gpg: assuming signed data in 'SHA1SUM'
 gpg: Signature made Mon Jun  8 17:34:12 2020 +07
 gpg:                using RSA key C6D2AA49B748F8EEFA909DF0BCF2CE3E92017139
