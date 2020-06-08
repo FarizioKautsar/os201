@@ -1,4 +1,4 @@
 # os201
 
-This is Farizio's personal OS201 GitHub page intended to used as repository required for the Operating System course.
-Jolan Tru
+Welcome to Farizio's GitHub repo intended for the Operating System course.
+Take a look around :)
