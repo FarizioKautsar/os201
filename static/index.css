@@ -142,7 +142,7 @@ a:hover {text-decoration: none !important;}
 
 .landing_paragraph {
     margin-top: 60px;
-    max-width: 400px;
+    max-width: 500px;
     font-weight: 300;
 }
 
@@ -190,7 +190,6 @@ a:hover {text-decoration: none !important;}
 .mycard {
     border: 2px solid #FFEE54;
     background-color: #171717;
-    height: 100%;
     min-width: 300px;
     transition: 300ms ease-out;
     overflow: hidden;
