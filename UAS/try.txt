@@ -1,0 +1,31 @@
+FarizioKautsar ZCZCSCRIPTSTART 200608-172918 FarizioKautsar
+FarizioKautsar FarizioKautsar 200608-172944-cb6b-UAS/ 200608-172944 SEQOK SUMOK cb6b3c6a \n
+FarizioKautsar FarizioKautsar 200608-172957-ad02-UAS/ 200608-172957 SEQOK SUMOK ad02332e \n
+FarizioKautsar FarizioKautsar 200608-173000-3086-UAS/ 200608-173000 SEQOK SUMOK 3086f8c0 \n
+FarizioKautsar FarizioKautsar 200608-173015-7c5d-UAS/ 200608-173015 SEQOK SUMOK 7c5de50a \n
+FarizioKautsar ZCZCSCRIPTSTOP 200608-173020 SEQOK
+
+FarizioKautsar ZCZCSCRIPTSTART 200607-231558 fatih-alaydrus
+FarizioKautsar fatih-alaydrus 200607-231652-247f-fatih.ismail/ 200607-231652 SEQOK SUMOK 247f9d51 \n
+FarizioKautsar fatih-alaydrus 200607-231659-1bd7-fatih.ismail/ 200607-231659 SEQOK SUMOK 1bd70397 \n
+FarizioKautsar fatih-alaydrus 200607-231718-01b6-fatih.ismail/ 200607-231718 SEQOK SUMOK 01b6fde4 \n
+FarizioKautsar fatih-alaydrus 200607-231730-58a5-fatih.ismail/ 200607-231730 SEQOK SUMOK 58a5763e \n
+FarizioKautsar ZCZCSCRIPTSTOP 200608-231736 SEQOK
+
+FarizioKautsar ZCZCSCRIPTSTART 200601-164849 finishal 
+FarizioKautsar finishal 200601-164856-f5c3-UAS/ 200601-164856 SEQOK SUMOK f5c3ac0b \n
+FarizioKautsar finishal 200601-164857-cfab-UAS/ 200601-164857 SEQOK SUMOK cfab9d8a \n
+FarizioKautsar finishal 200601-164859-c285-UAS/ 200601-164859 SEQOK SUMOK c28552c7 \n
+FarizioKautsar finishal 200601-164901-4769-UAS/ 200601-164901 SEQOK SUMOK 4769d16f \n
+FarizioKautsar ZCZCSCRIPTSTOP 200601-164902 SEQOK
+
+200608-172944-FarizioKautsar-UAS
+200608-172957-FarizioKautsar-UAS
+echo "200608-173015-FarizioKautsar-UAS"|sha1sum|cut -c1-8
+
+200607-231659-fatih-alaydrus-fatih.ismail
+echo "200601-164901-finishal-UAS"|sha1sum|cut -c1-8
+
+export CEKSAYA="FarizioKautsar ZCZCSCRIPTSTART 200608-172918 FarizioKautsar \nFarizioKautsar FarizioKautsar 200608-172944-cb6b-UAS/ 200608-172944 SEQOK SUMOK cb6b3c6a \nFarizioKautsar FarizioKautsar 200608-172957-ad02-UAS/ 200608-172957 SEQOK SUMOK ad02332e \nFarizioKautsar FarizioKautsar 200608-173000-3086-UAS/ 200608-173000 SEQOK SUMOK 3086f8c0 \nFarizioKautsar FarizioKautsar 200608-173015-7c5d-UAS/ 200608-173015 SEQOK SUMOK 7c5de50a \nFarizioKautsar ZCZCSCRIPTSTOP 200608-173020 SEQOK"
+export CEKSEBELA1="FarizioKautsar ZCZCSCRIPTSTART 200607-231558 fatih-alaydrus \nFarizioKautsar fatih-alaydrus 200607-231652-247f-fatih.ismail/ 200607-231652 SEQOK SUMOK 247f9d51 \nFarizioKautsar fatih-alaydrus 200607-231659-1bd7-fatih.ismail/ 200607-231659 SEQOK SUMOK 1bd70397 \nFarizioKautsar fatih-alaydrus 200607-231718-01b6-fatih.ismail/ 200607-231718 SEQOK SUMOK 01b6fde4 \nFarizioKautsar fatih-alaydrus 200607-231730-58a5-fatih.ismail/ 200607-231730 SEQOK SUMOK 58a5763e \nFarizioKautsar ZCZCSCRIPTSTOP 200608-231736 SEQOK"
+export CEKSEBELA2="FarizioKautsar ZCZCSCRIPTSTART 200601-164849 finishal FarizioKautsar finishal 200601-164856-f5c3-UAS/ 200601-164856 SEQOK SUMOK f5c3ac0b \nFarizioKautsar finishal 200601-164857-cfab-UAS/ 200601-164857 SEQOK SUMOK cfab9d8a \nFarizioKautsar finishal 200601-164859-c285-UAS/ 200601-164859 SEQOK SUMOK c28552c7 \nFarizioKautsar finishal 200601-164901-4769-UAS/ 200601-164901 SEQOK SUMOK 4769d16f \nFarizioKautsar ZCZCSCRIPTSTOP 200601-164902 SEQOK"
