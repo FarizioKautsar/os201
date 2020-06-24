@@ -1,0 +1,5 @@
+Script started on 2020-06-24 09:31:46+07:00 [TERM="xterm-256color" TTY="/dev/tty2" COLUMNS="374" LINES="19"]
+]0;fariziokautsar@THEMACHINE3: /mnt/d/College/SMT 4/OS/os201[01;32mfariziokautsar@THEMACHINE3[00m:[01;34m/mnt/d/College/SMT 4/OS/os201[00m$ exit
+exit
+
+Script done on 2020-06-24 09:31:52+07:00 [COMMAND_EXIT_CODE="0"]
