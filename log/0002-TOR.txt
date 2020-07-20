@@ -1,0 +1,61 @@
+Proposal Rencana Pelaksanaan Tugas Extra Operating System
+
+Senin, 20 Juli 2020
+
+Nama    : Farizio Kautsar Heruzy
+NPM     : 1806191295
+Kelas   : OS-B
+
+Latar Belakang
+==============
+Usai pembelajaran mata kuliah Operating System (OS) semester genap 2020 ini, 
+fakultas sudah memberikan nilai dan mahasiswa sudah bisa melihat nilainya
+melalui SIAK-NG. Akan tetapi, Pak Rahmat M. Samik-Ibrahim memberikan mahasiswa
+beliau kesempatan untuk memperoleh nilai tambahan melalui tugas extra.
+
+Persyaratan
+===========
+1. Setidaknya mengerti sedikit mengenai FUSE (jika memilih tugas 1)
+2. Bagi mahasiswa yang tidak ada kabar, mahasiswa tersebut akan diberikan nilai E
+3. Bagi yang tidak menyelesaikan tugas sesuai syarat, nilai tidak akan di-upgrade
+
+Tujuan
+======
+Meng-upgrade nilai pada SIAK-NG menjadi 1 poin 
+lebih tinggi dari sebelumnya (misal, dari B ke B+)
+
+Proposal Rencana
+================
+1. Memilih salah satu dari tugas yang ditawarkan. Saya memilih tugas 2, yaitu Post
+Mortem Analysis atas pelaksanaan UAS Online pada bulan Juni-Juli 2020.
+
+2. Memiliki peran contributor pada repository https://github.com/alkwrzm/os201extra2
+
+3. Membuat folder bernama akun GitHub sendiri dan membuat dokumen memo.txt 
+(https://github.com/alkwrzm/os201extra2/blob/master/FarizioKautsar/memo.txt).
+Setiap hari, berkas ini akan diupdate mengenai apa saja yang sudah dilakukan.
+
+4. Membuat folder "os201extra2" dalam repository os201 pribadi
+(https://github.com/FarizioKautsar/os201/tree/master/os201extra2)
+
+5. Dalam folder tersebut, membuat berkas "0000-mypub.txt" berisi public key
+
+6. Dalam folder yang sama, membuat "0001-extra201.txt.asc" yang berisi nama, npm, 
+akun github, dan permintaan untuk mengganti nilai.
+
+7. Dalam folder yang sama, membuat "0002-TOR.txt.asc" (File ini) yang berisi proposal 
+rencana pelaksanaan tugas extra ini
+
+8. Memahami isi https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+sebagai refrensi apa yang perlu dibahas dan dijadikan masukan.
+
+9. Membuat berkas "0003-pelaksanaan-OS201.txt", berisi pelaksanaan tugas extra yang merupakan
+catatan singkat mengenai mata kuliah OS selama ini dan perbandingan UTS dan UAS dengan ujian
+lainnnya.
+
+10. Membuat berkas "0004-catatan-OS201.txt" yang berisi catatan tambahan, penjelasan
+mengenai berbagai macam istilah teknis, dan pembahasan dari perspektif peserta OS201.
+
+11. Membuat file SHA1SUM dan SHA1SUM.asc pada folder "os201extra2" pribadi.
+
+12. Pembuatan Post Mortem Analysis yang akan dibuat dalam bentuk file yang ditentukan.

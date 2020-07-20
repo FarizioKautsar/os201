@@ -1,0 +1,134 @@
+REV03 Mon Jul 20 05:39:34 WIB 2020
+REV02 Fri Jul 17 00:00:00 WIB 2020
+REV01 Thu JUl 16 00:00:00 WIB 2020
+==================================
+
+OS201 EXTRA ABC
+===============
+
+
+Pendahuluan
+===========
+1) Kegiatan extra ini harus selesai sebelum 6 Agustus 2020.
+2) Ini tugas kelompok, dalam arti silakan tukar menukar informasi dan diskusi. 
+3) Namun ini juga tugas individual, yaitu masing-masing mengerjakan tugasnya masing-masing.
+4) Peserta yang mangkrak dianggap gagal.
+
+
+Hasil
+=====
+1) Mendapat satu nilai lebih tinggi dari sebelumnya (contoh dari B- ke B).
+2) Tetap nilai sebelumnya
+3) Peserta yang mangkrak nilainya akan tetap "I" (yang akan berubah secara otomatis menjadi "E").
+
+
+Pilihan Tugas
+=============
+1) Memberikan SEDIKIT (saja) kontribusi atas FUSE. Silakan pelajari http://fuse.vlsm.org/.
+Diperkirakan, SEBAGIAN BESAR waktu akan habis untuk memahami FUSE.
+Waktu untuk memberikan kontribusi tidak akan banyak.
+Dengan kata lain, saya tidak berharap banyak atas kontribusi yang besar.
+Mungkin cukup dengan mereplikasi dan memahami salah satu proyek FUSE yang pernah dibuat.
+Tujuan: agar dapat dimanfaatkan untuk Demo OS semester depan.
+
+2) Melakukan post mortem analysis atas pelaksanaan UAS lalu.
+Silakan pelajari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+Tujuan: sebagai masukan untuk penyelenggaraan UTS/UAS semester depan.
+
+3) Silakan ajukan kalau punya ide lain.
+
+
+Proyek GitHub os201extra2
+=========================
+1) Diperlukan akses ke proyek https://github.com/alkwrzm/os201extra2.
+2) Buat berkas memo.txt (MEMO) di "akunGitHub/memo.txt".
+3) Gunakan editor linux / editor yang tidak menambahkan karakter <CR> pada akhir baris.
+4) Berkas MEMO diupdate (push) setiap hari.
+5) Berkas MEMO berisi 4 bagian:
+2a) apa yang dikerjakan sejak penulisan memo sebelumnya.
+2b) rencana yang akan dikerjakan
+2c) koordinasi dengan anggota lainnya
+2d) hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
+
+
+Folder "os201extra2/" dalam os201 (pribadi)
+===========================================
+Isi folder sebagai berikut:
+0000-mypub.txt
+0001-extra201.txt.asc
+0002-TOR.txt.asc
+0003-pelaksanaan-OS201.txt
+0004-catatan-OS201.txt
+SHA1SUM
+SHA1SUM.asc
+
+
+Berkas 0000-mypub.txt
+=====================
+Silakan menggunakan berkas 0000-mypub.txt lama yang masih berlaku.
+
+
+Berkas 0001-extra201.txt.asc
+============================
+1) Lakukan enkripsi (armor, key) kepada (-r) operatingsystems@vlsm.org dan diri sendiri.
+2) Berkas jangan ditanda-tangani!
+3) Isi berkas:
+3a) nama/npm/akunGitHub
+3b) mengajukan untuk tugas extra: 1 (FUSE), 2 (POSTMORTEM), atau 3 (LAINNYA)
+3c) mengajukan permintaan mengubah nilai OS (SIAK) menjadi I
+3d) memahami bahwa nilai akan tetap I, jika tidak merampungkan (mangkrak) tugas
+
+
+Berkas 0002-TOR.txt.asc
+=======================
+1) Buat proposal (TOR) rencana pelaksanaan tugas.
+2) Secara berkala, proposal dapat direvisi.
+3) Lakukan enkripsi (armor, key) kepada (-r) operatingsystems@vlsm.org dan diri sendiri.
+4) Berkas jangan ditanda-tangani!
+
+
+Berkas 0003-pelaksanaan-OS201.txt
+=================================
+1) Buat sebuah catatan singkat pelaksanaan mata ajar OS selama semester ini.
+2) Bandingkan pelaksanaan pengajaran sebelum dan sesudah UTS.
+3) Bandingkan pelaksanaan UTS OS dengan UTS lainnya.
+4) Bendingkan pelaksanaan UAS OS dengan UAS lainnya.
+
+
+Berkas 0004-catatan-OS201.txt
+=============================
+1) Buat catatan tambaan untuk pelaksanaan
+1a) Persiapan UAS
+1b) Tahap 1, dst.
+2) Berikan penjelasan (dugaan) berikut ini:
+2a) Scripting
+2b) FUSE
+2c) git
+2d) GitHub
+2e) GitHub Page
+2f) GnuPG
+2g) SHA1SUM
+2h) SHA1SUM.asc
+3) Bahas dari sudut pandang peserta OS201, berkas berikut ini:
+https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+
+
+Penilaian
+=========
+2) Ada 3 kemungkinan:
+2a) pekerjaan selesai, nilai OS di naikkan.
+2b) pekerjaan tidak selesai, nilai OS tetap
+2c) mangkrak (tidak ada berita), mendapat E
+
+Untuk tugas I (FUSE), batasan dapat lebih jelas.
+Untuk tugas II, akan ada iterasi hingga tidak ada lagi yang ditanyakan (saya)
+Untuk tugas III, perlu di tentukan dan disepakati sebelum tugas dimulai.
+
+
+Catatan Tambahan
+================
+1) Jangan menggunakan perangkat Windows 10 yang berpotensi membuat kacau berkas TEXT. Contoh: ssh, powershell, dst.
+2) Jangan MENYALIN dan MENJELASKAN tutorial yang sudah ada! Gunakan URL yang merujuk ke tutorial tersebut.
+3) Fokus pada perintah-perintah yang digunakan saat UAS, termasuk perintah yang JANGAN digunakan (contoh commit -force). Lihat juga contoh script https://github.com/rms46/cbkadal/blob/master/UAS/.shsh
+4) Perlihatkan hasil tugas kepada teman/mahasiswa yang lain: apakah mereka mengerti/ dapat mengerjakan langkah demi langkah sesuai petunjuk yang dibuat.
+
