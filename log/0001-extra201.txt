@@ -1,4 +1,4 @@
-Farizio Kautsar Heruzy/1806191295/FarizioKautsar
-2
+Farizio Kautsar Heruzy/B/1806191295/FarizioKautsar
+Saya menerima tugas 2 (Post Mortem Analysis)
 Melalui text file ini, saya izin ingin meminta agar nilai OS pada SIAK-NG menjadi I.
 Saya juga mengerti bahwa jika saya mangkrak, nilai saya akan tetap I.

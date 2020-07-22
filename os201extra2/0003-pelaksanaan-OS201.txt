@@ -1,0 +1,84 @@
+# REV00 Tue Jul  22 16:10:04 WIB 2020
+=====================================
+
+Farizio Kautsar Heruzy/B/1806191295/FarizioKautsar
+
+0003-pelaksanaan-OS201.txt
+
+1. Catatan Singkat Pelaksanaan Mata Kuliah OS Semester Genap 2020
+=================================================================
+
+Menurut saya, Operation System adalah mata kuliah yang memerlukan rasa inisiatif yang tinggi, 
+dengan kata lain, di luar pembelajaran di kelas bersama Pak RMS, mahasiswa juga sangat dianjurkan 
+atau bahkan diwajibkan untuk mendalami materi-materi OS pada waktu luang. Tentu, mahasiswa yang 
+tertarik atau yang ingin mendapatkan nilai yang tinggi akan semangat dalam memahami materi OS 
+lebih lanjut, tetapi untuk sisanya, saya merasa, selain mengumpulkan kertas memo setiap minggunya, 
+hampir tidak ada dorongan untuk melakukan hal tersebut. Menghilangkan faktor tugas harian dalam 
+penilaian tentu akan membuat mahasiswa lebih tenang dan bisa fokus ke hal lain, tetapi pada sisi 
+lainnya, mahasiswa akan kehilangan dorongan untuk memahami materi OS lebih lanjut dan hanya 
+belajar jika ada ujian.
+
+2. Perbandingan Pelaksanaan Pengajaran Sebelum dan Sesudah UTS
+==============================================================
+
+    a.  Sebelum UTS
+        Pembelajaran dilakukan di kelas secara tatap muka. Metode ini menurut saya lebih efektif 
+        dan efisien karena pesan-pesan yang disampaikan dosen bisa langsung diterima mahasiswa. 
+        Metode ini juga sangat cocok untuk pembahasan soal-soal karena jika ada mahasiswa yang 
+        tidak mengerti, mereka bisa langsung bertanya. Di dalam kelas, absen dilakukan menggunakan 
+        kertas yang diisi dengan cara mengisi kolom nama mahasiswa dengan X.
+
+    b.  Setelah UTS
+        Pembelajaran dilanjutkan di kelas untuk sedikit waktu lalu menjadi 100% daring. Kuliah 
+        daring ini dilakukan melalui Scele dan grup Whatsapp. Pada Scele, Pak RMS memberikan 
+        kesempatan bagi mahasiswa untuk secara resmi menanyakan hal-hal mengenai materi OS. Pada 
+        grup Whatsapp, Pak RMS memberikan beberapa tips, artikel, video, dan penyemangat mengenai 
+        materi pada minggu tertentu. Sayangnya, saya merasa ada bahkan lebih sedikit insentif untuk 
+        mempelajari OS lebih lanjut dan salah satu dorongan utama saya adalah realisasi bahwa saya 
+        kurang memahami materi OS setelah menjalankan UTS. Akan tetapi, dorongan untuk otodidak 
+        juga membesar dan hal-hal yang dibagikan oleh Pak RMS sangatlah membantu.
+
+3. Perbandingan UTS OS Dengan UTS Lainnya
+=========================================
+
+    a.  UTS OS dengan UTS OS tahun sebelumnya
+        Dibandingkan mata kuliah lain, UTS OS relatif serupa dengan UTS OS tahun sebelumnya. 
+        Mahasiswa dikumpulkan di kelas mengerjakan ujian di kertas. Keamanan dilaksanakan melalui 
+        memisahkan bangku-bangku mahasiswa dan kelas dijaga oleh beberapa pengawas. Soal yang 
+        ditanyakan berupa pertanyaan pilihan ganda, benar/salah, isian, dan essay.
+
+    b.  UTS OS dengan UTS mata kuliah lain
+        UTS OS dilakukan secara tatap muka, dimana UTS mata kuliah lain dilakukan secara daring. 
+        UTS lain (seperti SSP dan Basis Data) menyediakan simulasi UTS bagi mahasiswa untuk 
+        menyesuaikan diri dengan ujian daring dan sebagai gambaran besar materi yang akan 
+        ditanyakan. UTS lain juga cenderung membutuhkan waktu yang lebih sedikit karena pertanyaan 
+        yang ditanyakan hanya berupa pilihan ganda dan benar/salah.
+
+4. Perbandingan UAS OS Dengan UAS Lainnya
+=========================================
+
+    a.  Perbandingan UAS OS A, B, C dan OS D dan E
+        -   OS D dan E melaksanakan UAS hanya sekali dalam waktu 1 hari, UAS OS A, B, dan C dilakukan 
+            secara bertahap selama sekitar 2 minggu dengan waktu pengerjaan 1 tahap selama 1 hari. 
+            Metode ini menurut saya sangat efektif karena mahasiswa bisa bersiap secara matang untuk 
+            tahap berikutnya dan bisa lebih teliti dalam pengerjaannya. 
+        -   Semua kelas OS mengerjakan UAS secara berkelompok, tetapi penilaian OS A, B, dan C tetap 
+            dilakukan secara individu. Saya menyetujui metode ini karena mahasiswa tidak bisa hanya 
+            “freeriding” suatu kelompok.
+        -   OS A, B, dan C perlu meng-encrypt hasil pengerjaan terlebih dahulu sebelum di-upload ke 
+            GitHub (agar tidak disalin mahasiswa lain), sedangkan OS E dan D langsung meng-upload hasil 
+            pengerjaan ke Scele. Walaupun hal tersebut memerlukan tahap tambahan (encryption) yang 
+            melambatkan waktu pengerjaan, saya jadi tahu konsep dan cara meng-encrypt suatu file.
+
+    b.  Perbandingan UAS OS Dengan UAS Mata Kuliah Lainnya
+        Semua mata kuliah selain OS memiliki metode yang relatif sama, yaitu mengisi soal di kuesioner 
+        Scele atau mengupload foto hasil pengerjaannya ke Scele. UAS OS menurut saya ujian yang paling 
+        kompleks (dalam jurusan Sistem Informasi), menggunakan aplikasi seperti Scele, GitHub, WhatsApp, 
+        Badak, dan lainnya. UAS ini menurut saya adalah UAS yang paling membutuhkan fokus dan ketelitian, 
+        karena satu kesalahan bisa berakibat fatal. Dibandingkan mata kuliah lain, UAS OS adalah yang 
+        paling unik. Dimana mata kuliah lain menjalankan UAS dalam waktu 1-3 jam, OS menjalankannya 
+        selama 2 minggu, dengan masing-masing tugas memiliki deadline dalam waktu 1 hari. Mahasiswa OS 
+        juga mengerjakan UAS ini secara kolaboratif/berkelompok. Sehingga ide dan ilmu masing-masing 
+        anggota perlu disatukan untuk menyelesaikan tugas-tugas pada UAS ini. Overall,menurut saya ini 
+        adalah UAS yang paling mengesankan tetapi yang paling rumit pula, sehingga saran saya adalah 
+        untuk lebih banyak memberikan detail pengerjaan agar tidak terjadi kesalahpahaman.

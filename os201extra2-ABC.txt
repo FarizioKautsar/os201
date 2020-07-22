@@ -1,3 +1,4 @@
+REV04 Tue Jul 21 10:29:49 WIB 2020
 REV03 Mon Jul 20 05:39:34 WIB 2020
 REV02 Fri Jul 17 00:00:00 WIB 2020
 REV01 Thu JUl 16 00:00:00 WIB 2020
@@ -71,9 +72,9 @@ Silakan menggunakan berkas 0000-mypub.txt lama yang masih berlaku.
 Berkas 0001-extra201.txt.asc
 ============================
 1) Lakukan enkripsi (armor, key) kepada (-r) operatingsystems@vlsm.org dan diri sendiri.
-2) Berkas jangan ditanda-tangani!
+2) BERKAS JANGAN DITANDA-TANGANI!
 3) Isi berkas:
-3a) nama/npm/akunGitHub
+3a) nama/kelas/npm/akunGitHub
 3b) mengajukan untuk tugas extra: 1 (FUSE), 2 (POSTMORTEM), atau 3 (LAINNYA)
 3c) mengajukan permintaan mengubah nilai OS (SIAK) menjadi I
 3d) memahami bahwa nilai akan tetap I, jika tidak merampungkan (mangkrak) tugas
@@ -81,10 +82,10 @@ Berkas 0001-extra201.txt.asc
 
 Berkas 0002-TOR.txt.asc
 =======================
-1) Buat proposal (TOR) rencana pelaksanaan tugas.
+1) Buat proposal (TOR) rencana pelaksanaan tugas. Jangan lupa, beri nama/kelas/npm/akunGitHub
 2) Secara berkala, proposal dapat direvisi.
 3) Lakukan enkripsi (armor, key) kepada (-r) operatingsystems@vlsm.org dan diri sendiri.
-4) Berkas jangan ditanda-tangani!
+4) BERKAS JANGAN DITANDA-TANGANI!
 
 
 Berkas 0003-pelaksanaan-OS201.txt
