@@ -1,4 +1,5 @@
-# REV00 Tue Jul  22 16:10:04 WIB 2020
+# REV00 Tue Jul 22 16:10:04 WIB 2020
+# REV01 Mon Jul 27 22:00:24 WIB 2020
 =====================================
 
 Farizio Kautsar Heruzy/B/1806191295/FarizioKautsar
@@ -8,21 +9,23 @@ Farizio Kautsar Heruzy/B/1806191295/FarizioKautsar
 1. Catatan Singkat Pelaksanaan Mata Kuliah OS Semester Genap 2020
 =================================================================
 
-Menurut saya, Operation System adalah mata kuliah yang memerlukan rasa inisiatif yang tinggi, 
-dengan kata lain, di luar pembelajaran di kelas bersama Pak RMS, mahasiswa juga sangat dianjurkan 
-atau bahkan diwajibkan untuk mendalami materi-materi OS pada waktu luang. Tentu, mahasiswa yang 
-tertarik atau yang ingin mendapatkan nilai yang tinggi akan semangat dalam memahami materi OS 
-lebih lanjut, tetapi untuk sisanya, saya merasa, selain mengumpulkan kertas memo setiap minggunya, 
-hampir tidak ada dorongan untuk melakukan hal tersebut. Menghilangkan faktor tugas harian dalam 
-penilaian tentu akan membuat mahasiswa lebih tenang dan bisa fokus ke hal lain, tetapi pada sisi 
-lainnya, mahasiswa akan kehilangan dorongan untuk memahami materi OS lebih lanjut dan hanya 
-belajar jika ada ujian.
+OS (Operating System) adalah mata kuliah yang diadakan pada semester genap dan dibawakan oleh Pak 
+Rahmat M. Samik-Ibrahim. Selama setengah semester genap pertama, kelas OS dilakukan secara tatap muka 
+di kelas, Pak RMS memberikan mahasiswanya tugas-tugas (dinamakan demo) yang diberikan setiap minggunya 
+selama 10 minggu. Tugas-tugas ini ditujukan agar mahasiswa tahu bagaimana cara mengoperasikan program-
+program yang akan digunakan selama pelaksanaan mata kuliah ini. Selain demo, kegiatan rutin yang 
+dilakukan per minggu adalah pembuatan memo. Memo adalah selembar kertas yang berisi catatan-catatan 
+terkait materi yang diajarkan tiap minggunya. Kertas memo ini kemudian dikumpulkan setiap minggu dan 
+dikonfirmasi dengan cara men-scan barcode yang ada di setiap lembar memo. Setelah datangnya Covid-19, 
+kuliah setengah kedua semester ini dilakukan secara daring. Pak RMS membuat grup Whatsapp yang digunakan 
+untuk berbagi update-update mengenai apapun yang berkaitan dengan mata kuliah OS. Pak RMS juga 
+menggunakan Scele sebagai wadah untuk tanya jawab mengenai materi OS.
 
 2. Perbandingan Pelaksanaan Pengajaran Sebelum dan Sesudah UTS
 ==============================================================
 
     a.  Sebelum UTS
-        Pembelajaran dilakukan di kelas secara tatap muka. Metode ini menurut saya lebih efektif 
+        Pembelajaran dilakukan di kelas secara tatap muka. Metode ini lebih efektif 
         dan efisien karena pesan-pesan yang disampaikan dosen bisa langsung diterima mahasiswa. 
         Metode ini juga sangat cocok untuk pembahasan soal-soal karena jika ada mahasiswa yang 
         tidak mengerti, mereka bisa langsung bertanya. Di dalam kelas, absen dilakukan menggunakan 
@@ -33,10 +36,7 @@ belajar jika ada ujian.
         daring ini dilakukan melalui Scele dan grup Whatsapp. Pada Scele, Pak RMS memberikan 
         kesempatan bagi mahasiswa untuk secara resmi menanyakan hal-hal mengenai materi OS. Pada 
         grup Whatsapp, Pak RMS memberikan beberapa tips, artikel, video, dan penyemangat mengenai 
-        materi pada minggu tertentu. Sayangnya, saya merasa ada bahkan lebih sedikit insentif untuk 
-        mempelajari OS lebih lanjut dan salah satu dorongan utama saya adalah realisasi bahwa saya 
-        kurang memahami materi OS setelah menjalankan UTS. Akan tetapi, dorongan untuk otodidak 
-        juga membesar dan hal-hal yang dibagikan oleh Pak RMS sangatlah membantu.
+        materi pada minggu tertentu. 
 
 3. Perbandingan UTS OS Dengan UTS Lainnya
 =========================================
@@ -60,8 +60,8 @@ belajar jika ada ujian.
     a.  Perbandingan UAS OS A, B, C dan OS D dan E
         -   OS D dan E melaksanakan UAS hanya sekali dalam waktu 1 hari, UAS OS A, B, dan C dilakukan 
             secara bertahap selama sekitar 2 minggu dengan waktu pengerjaan 1 tahap selama 1 hari. 
-            Metode ini menurut saya sangat efektif karena mahasiswa bisa bersiap secara matang untuk 
-            tahap berikutnya dan bisa lebih teliti dalam pengerjaannya. 
+            Metode ini sangat efektif karena mahasiswa bisa bersiap secara matang untuk tahap 
+            berikutnya dan bisa lebih teliti dalam pengerjaannya. 
         -   Semua kelas OS mengerjakan UAS secara berkelompok, tetapi penilaian OS A, B, dan C tetap 
             dilakukan secara individu. Saya menyetujui metode ini karena mahasiswa tidak bisa hanya 
             “freeriding” suatu kelompok.
@@ -79,6 +79,4 @@ belajar jika ada ujian.
         paling unik. Dimana mata kuliah lain menjalankan UAS dalam waktu 1-3 jam, OS menjalankannya 
         selama 2 minggu, dengan masing-masing tugas memiliki deadline dalam waktu 1 hari. Mahasiswa OS 
         juga mengerjakan UAS ini secara kolaboratif/berkelompok. Sehingga ide dan ilmu masing-masing 
-        anggota perlu disatukan untuk menyelesaikan tugas-tugas pada UAS ini. Overall,menurut saya ini 
-        adalah UAS yang paling mengesankan tetapi yang paling rumit pula, sehingga saran saya adalah 
-        untuk lebih banyak memberikan detail pengerjaan agar tidak terjadi kesalahpahaman.
+        anggota perlu disatukan untuk menyelesaikan tugas-tugas pada UAS ini.
