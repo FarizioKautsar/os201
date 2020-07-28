@@ -1,0 +1,78 @@
+# REV00 Mon Jul 27 20:40:04 WIB 2020
+# REV01 Tue Jul 28 16:21:24 WIB 2020
+=====================================
+
+Farizio Kautsar Heruzy/B/1806191295/FarizioKautsar
+
+0004-catatan-OS201.txt
+
+1.  Buat catatan tambahan untuk pelaksanaan
+==========================================
+
+    a. Persiapan UAS
+    ================
+    Kelebihan:
+        -   Relatif mudah
+        -   Beberapa langkah-langkah mudah dimengerti
+        -   Waktu yang diberikan cukup banyak
+        -   Tersedianya file log untuk memantau kesalahan
+        -   Bobot nilai sangat dihargai
+        -   Sebagian besar instruksi ada di forum Scele, sehingga mudah diakses
+    Kekurangan:
+        -   Perintah yang diberikan kadang membelit dan sulit dimengerti
+        -   Ada beberapa dokumentasi tidak terkumpul pada 1 tempat sehingga sulit jika lupa command-command yang diperlukan
+        -   Ada beberapa error yang tidak diperingatkan sebelumnya (error meng-copy-paste key)
+
+    b. Tahap 1
+    ==========
+    Kelebihan:
+        -   Dokumentasi sudah tersusun dengan rapi sehingga mudah dibaca
+        -   Menjadi tahu cara membuat advanced script dan membuat github pages.
+        -   Adanya contoh repository github untuk penyelesaian tugas ini (https://github.com/rms46/cbkadal)
+    Kekurangan:
+        -   Kurangnya penjelasan mengenai kesalahan SEQNO dan SUMNO.
+        -   Jika tidak tahu cara menggunakan terminal linux dan cara membuat advanced script, bisa menghambat pengerjaan tugas.
+        -   Persyaratan berkas yang dibutuhkan kurang jelas sehingga ada beberapa mahasiswa yang tidak bisa lanjut karena tidak/lupa membuat
+            berkas yang memenuhi syarat.
+
+    c. Tahap 2
+    ==========
+    Kelebihan:
+        -   Menjadi lebih tahu bagaimana semafor bekerja untuk menghindari terjadinya race condition dalam 
+            mengakses memori yang sama secara bersamaan.
+        -   Pengerjaan tugas secara berkelompok sehingga bisa dikerjakan secara kolaboratif dan setiap anggota punya Persiapan.
+    Kekurangan:
+        -   Lompatan kesulitan yang lumayan besar, sehingga peserta ujian tidak siap akan kesulitan yang mereka hadapi.
+        -   Beberapa command (seperti “TIME[16]”), angka 16 kurang jelas terkait darimana asalnya sehingga membingungkan.
+
+    d. Tahap 3
+    ==========
+        [TIDAK MENGIKUTI KARENA TERMINAL DI TAHAP 2]
+
+    e. Tahap 4
+    ==========
+        [TIDAK MENGIKUTI KARENA TERMINAL DI TAHAP 2]
+
+    f. Tahap 5
+    ==========
+        [TIDAK MENGIKUTI KARENA TERMINAL DI TAHAP 2]
+
+2.  Berikan penjelasan (dugaan) berikut ini
+==========================================
+
+    a. Scripting
+    b. FUSE
+    c. Git
+    d. GitHub
+    e. GitHub Page
+    f. GnuPG
+    g. SHA1SUM
+    h. SHA1SUM.asc
+
+3.  Bahas dari sudut pandang peserta OS201, berkas berikut ini:
+    https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+===================================================================================
+
+    a. Tantangan
+    b. Perangkat pendukung
+    c. Problem
