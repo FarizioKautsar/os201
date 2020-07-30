@@ -61,13 +61,54 @@ Farizio Kautsar Heruzy/B/1806191295/FarizioKautsar
 ==========================================
 
     a. Scripting
+            Scripting adalah kegiatan menulis susunan perintah-perintah untuk dieksekusi oleh bash sehingga user tidak perlu mengetik
+            command-command yang sama setiap kali user ingin melakukan serangkaian perintah. Pada ujian ini ialah kegiatan merekam/menulis 
+            tahap-tahap yang dilakukan untuk melakukan suatu rangkaian perintah. Script yang dibuat juga bisa dijalankan kembali (recalling).
+
+            Hal ini dilakukan dengan memasukkan command "script [NAMA-FILE].txt" ke dalam bash. Perintah tersebut akan mulai rekaman perintah
+            -perintah yang kita masukan sampai kita memasukkan command "exit" dan bash akan membuat berkas baru sengan nama file yang
+            kita masukkan yang berisi timestamp mulai script, timestamp setiap command, timestamp berakhirnya script, command-command yang 
+            kita input, dan outputnya (jika ada).
+
     b. FUSE
+            FUSE adalah singkatan dari Filesystem in Userspace yang merupakan suatu interface software untuk Unix. Program ini digunakan
+            oleh non-privileged users untuk membuat berkas sistemnya sendiri tanpa mengedit kernel. Biasanya FUSE digunakan untuk membuat 
+            virtual file system.
+
     c. Git
+            Git adalah version control system yang digunakan developer untuk berkolaborasi mengembangkan satu berkas/software. Git 
+            memudahkan developer untuk melihat apa saja perubahan yang dilakukan oleh developer lain, sehingga meminimalisir kesalahan
+            yang bisa terjadi. Ada beberapa perintah yang kita bisa input di dalam git, yang sering digunakan dalam ujian OS adalah;
+            - git add . (menyiapkan semua file untuk di commit)
+            - git commit (menyimpan semua perubahan berkas secara lokal dan menyiapkannya untuk di-push)
+            - git push (mengunggah perubahan-perubahan yang dilakukan ke remote repository)
+
     d. GitHub
+            GitHub adalah sebuah aplikasi berbasis website yang menyediakan layanan untuk menyimpan repository git. Repository dalam hal 
+            ini merupakan tempat yang kita bisa gunakan untuk menyimpan berbagai file berupa source code. Dengan aplikasi ini kita dapat 
+            melakukan kolaborasi dalam mengerjakan project tertentu agar bisa melakukan update secara rutin, termasuk melacak dan menyimpan 
+            perubahan-perubahan yang terjadi dalam project tersebut.
+
     e. GitHub Page
+            GitHub Page adalah fitur yang disediakan oleh GitHub yang membisakan usernya untuk menampilkan (hosting) website statis yang 
+            dibuat oleh user secara gratis. Website statis dalam hal ini berarti tidak ada file-file yang diupdate secara terus-menerus, 
+            hanya bisa menampilkan website yang dibuat menggunakan HTML, CSS, dan JavaScript. Website yang user tampilkan terdapat 
+            menggunakan subdomain github.io. Fitur ini berguna untuk membuat dokumentasi (informasi, patch notes, update, dll) mengenai 
+            software yang sedang user buat. 
+
     f. GnuPG
+            
+
     g. SHA1SUM
+            SHA1SUM adalah program/perintah yang menghitung dan memverifikasi hash yang menggunakan SHA1 (Secure Hash Algorithm 1). Program 
+            ini sudah terpasang pada sebagian besar sistem operasi yang menggunakan Linux. Pada UAS OS genap 2020, file “SHA1SUM” digunakan 
+            sebagai berkas yang menyimpan hash berkas-berkas yang diupload di GitHub. Melalui berkas tersebut, kita bisa mengetahui apakah 
+            file tersebut adalah file original atau bukan karena jika ada berkas yang diubah sedikitpun (termasuk waktu pembuatan), file 
+            tersebut akan menerima hash yang berbeda.
+
     h. SHA1SUM.asc
+
+
 
 3.  Bahas dari sudut pandang peserta OS201, berkas berikut ini:
     https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
