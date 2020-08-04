@@ -97,7 +97,7 @@ Farizio Kautsar Heruzy/B/1806191295/FarizioKautsar
             software yang sedang user buat. 
 
     f. GnuPG
-            
+            GnuPG adalah software
 
     g. SHA1SUM
             SHA1SUM adalah program/perintah yang menghitung dan memverifikasi hash yang menggunakan SHA1 (Secure Hash Algorithm 1). Program 
@@ -115,5 +115,28 @@ Farizio Kautsar Heruzy/B/1806191295/FarizioKautsar
 ===================================================================================
 
     a. Tantangan
+            Perubahan terhadap tata cara dilakukan ditengah ujiian, sehingga membingungkan mahasiswa. Hal ini menyebabkan mahasiswa yang
+            seharusnya lolos ke tahap berikutnya menjadi berhenti walaupun diberi kesempatan untuk mengulang. Prosedur yang terlalu banyak
+            dan rumit juga mengurangi ruang waktu yang diberikan untuk mengerjakan soal ujian. 
     b. Perangkat pendukung
+            Mayoritas mahasiswa hanya familiar dengan penggunaan Git dan GitHub. Sedangkan untuk hal-hal seperti enkripsi & dekripsi (GnuPG),
+            scripting, sha1sum, dan lainnya perlu waktu untuk dimengerti mahasiswa. Sebagian besar peserta hanya mengikuti tahapan-tahapan
+            yang sudah ditulis, namun hanya sedikit yang benar-benar mengerti apa maksud dari tahapan-tahapan tersebut
     c. Problem
+            - Operating system
+                Karena banyak peserta yang tidak biasa menggunakan badak, mereka menggunakan WSL yang tersedia di dalam Windows atau semacam
+                nya dalam MacOS. Hal ini menyebabkan perbedaan format file yang dibuat oleh peserta tsb dengan berkas-berkas yang dibuat 
+                melalui badak. 
+            - GitHub
+                Saat melakukan push, terkadang ada peserta lain yang sedang melakukan push juga (terutama dalam absen). Hal ini menyebabkan
+                adanya push yang meng-overwrite perubahan peserta lain sehingga harus di push kembali.
+            - Scele
+                Ada terlalu banyak forum yang dibuka sehingga peserta yang ingin bertanya/berkontribusi menjadi bingung ingin mengirim kemana.
+            - Whatsapp
+                Tidak bisa melihat siapa yang tidak read sehingga tidak tahu siapa yang sedang tidak aktif/menghilang
+            - Scripting
+                Sebagian mahasiswa sebenarnya tidak mengerti apa maksud dari script-script yang diberikan, mereka hanya mengcopy dan paste
+                command-command yang sudah dibuat.
+            - GnuPG
+                Ada sangat banyak cara mengoperasikan Gnu sehingga membingungkan jika ada 1 fungsi yang memiliki 2 atau lebih command yang
+                berbeda.
