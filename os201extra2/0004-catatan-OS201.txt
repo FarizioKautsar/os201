@@ -97,7 +97,13 @@ Farizio Kautsar Heruzy/B/1806191295/FarizioKautsar
             software yang sedang user buat. 
 
     f. GnuPG
-            GnuPG adalah software
+            GnuPG (GNU Privacy Guard) adalah software krintografi yang digunakan untuk melakukan enkripsi, deksripsi, dan penandatanganan
+            digital sebuah berkas. Setelah proses-proses tersebut, hal yang kita bisa lakukan adalah pertukaran data antar perangkat
+            menggunakan command "-r" atau "-recipient". Selain itu, GnuPG juga dilengkapi dengan fitur manajemen key, seperti pembuatan, 
+            penyimpanan, penyuntingan, dan penghapusan key. Cara kerjanya ialah; seorang user memiliki public key dan private key. Public 
+            key adalah key yang semua orang bisa baca, sedangkan private key adalah key yang user tersebut bisa akses. Misalkan A ingin
+            mengirimkan dokumen sensitif ke B. A menggunakan public key B untuk menenkrisi data tersebut dan mengirimkannya ke B. B akan 
+            menerima dokumen yang sudah terenkripsi tersebut. Karena public key dan private key B cocok, B bisa mendekripsi berkas tersebut.
 
     g. SHA1SUM
             SHA1SUM adalah program/perintah yang menghitung dan memverifikasi hash yang menggunakan SHA1 (Secure Hash Algorithm 1). Program 
@@ -107,7 +113,10 @@ Farizio Kautsar Heruzy/B/1806191295/FarizioKautsar
             tersebut akan menerima hash yang berbeda.
 
     h. SHA1SUM.asc
-
+            Format ".asc" sendiri merupakan format untuk berkas ASCII yang digunakan oleh suatu software enkripsi data (seperti GnuPG). File
+            dengan format ini biasanya digunakan untuk diisidengan pesan yang perlu ditandatangani secara digital. File asc juga menyertakan 
+            kunci sebagai teks yang ditandatangani jelas sebagai metode otentikasi. Pada ujian ini, file SHASUM.asc berisi hasil enkripsi
+            berkas SHA1SUM yang kemudian bisa diverifikasi dan didekripsi.
 
 
 3.  Bahas dari sudut pandang peserta OS201, berkas berikut ini:
