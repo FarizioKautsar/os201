@@ -1,10 +1,14 @@
 # REV00 Mon Jul 27 20:40:04 WIB 2020
 # REV01 Tue Jul 28 16:21:24 WIB 2020
+# REV02 Fri Jul 31 15:50:02 WIB 2020
+# REV03 Mon Aug 03 18:03:34 WIB 2020
 =====================================
 
 Farizio Kautsar Heruzy/B/1806191295/FarizioKautsar
 
 0004-catatan-OS201.txt
+
+Catatan berikut dibuat berdasarkan survey yang dibuat oleh Hanna Jannatunna'iim (hannajtm)
 
 1.  Buat catatan tambahan untuk pelaksanaan
 ==========================================
@@ -47,15 +51,40 @@ Farizio Kautsar Heruzy/B/1806191295/FarizioKautsar
 
     d. Tahap 3
     ==========
-        [TIDAK MENGIKUTI KARENA TERMINAL DI TAHAP 2]
+    Kelebihan:
+        -   Banyak hal-hal baru yang belum dijelaskan dalam kodenya sehingga harus eksplorasi mandiri yang cukup sulit
+        -   Hanya satu file yang diedit sehingga sulit dalam pembagian tugas
+        -   Ada bagian yang penting tapi ambigu, seperti penamaan file
+        -   Kurang terlihat batasan tugas tiap anggota dalam kelompok
+    Kekurangan:
+        -   Karena mirip dengan tahap 2, peserta sudah sudah familiar sehingga relatif mudah untuk mengerjakan tahap 3
+        -   Deadline cukup panjang untuk status T3TERM
 
     e. Tahap 4
     ==========
-        [TIDAK MENGIKUTI KARENA TERMINAL DI TAHAP 2]
+    Kelebihan:
+        -   Bobot pengerjaan sesuai dengan materi dan waktu
+        -   Mengerti menggunakan semaphore synchronous
+        -   Merupakan tugas kelompok jadi bisa saling bantu
+        -   Ada beberapa method yang bisa diambil dan dimodifikasi dari soal tahap sebelumnya
+        -   Ada penjelasan tentang apa yang harus dikerjakan
+    Kekurangan:
+        -   Materi yang diujikan sulit, sumber belajar tidak banyak
+        -   Kurang dijelaskan perihal bagian mana yang boleh diimplementasikan sendiri
+        -   Ada masalah koordinasi revisi sehingga bisa timbul perbedaan edisi kode
 
     f. Tahap 5
     ==========
-        [TIDAK MENGIKUTI KARENA TERMINAL DI TAHAP 2]
+    Kelebihan:
+        -   Relatif mudah apabila sudah mengerti materi FUSE
+        -   Peserta menjadi lebih tahu salah satu penggunaan FUSE
+        -   Sudah ada dokumentasi yang banyak mengenai soal
+    Kekurangan:
+        -   Kurangnya penjelasan dan dokumentasi teknis
+        -   Waktu pengerjaan singkat
+        -   Perubahan bobot nilai menjadi bergantung pada hasil pekerjaan
+        -   Sumber belajar hanya materi
+
 
 2.  Berikan penjelasan (dugaan) berikut ini
 ==========================================
@@ -126,26 +155,37 @@ Farizio Kautsar Heruzy/B/1806191295/FarizioKautsar
     a. Tantangan
             Perubahan terhadap tata cara dilakukan ditengah ujiian, sehingga membingungkan mahasiswa. Hal ini menyebabkan mahasiswa yang
             seharusnya lolos ke tahap berikutnya menjadi berhenti walaupun diberi kesempatan untuk mengulang. Prosedur yang terlalu banyak
-            dan rumit juga mengurangi ruang waktu yang diberikan untuk mengerjakan soal ujian. 
+            dan rumit juga mengurangi ruang waktu yang diberikan untuk mengerjakan soal ujian.
+
     b. Perangkat pendukung
             Mayoritas mahasiswa hanya familiar dengan penggunaan Git dan GitHub. Sedangkan untuk hal-hal seperti enkripsi & dekripsi (GnuPG),
             scripting, sha1sum, dan lainnya perlu waktu untuk dimengerti mahasiswa. Sebagian besar peserta hanya mengikuti tahapan-tahapan
             yang sudah ditulis, namun hanya sedikit yang benar-benar mengerti apa maksud dari tahapan-tahapan tersebut
-    c. Problem
-            - Operating system
-                Karena banyak peserta yang tidak biasa menggunakan badak, mereka menggunakan WSL yang tersedia di dalam Windows atau semacam
-                nya dalam MacOS. Hal ini menyebabkan perbedaan format file yang dibuat oleh peserta tsb dengan berkas-berkas yang dibuat 
-                melalui badak. 
-            - GitHub
-                Saat melakukan push, terkadang ada peserta lain yang sedang melakukan push juga (terutama dalam absen). Hal ini menyebabkan
-                adanya push yang meng-overwrite perubahan peserta lain sehingga harus di push kembali.
-            - Scele
-                Ada terlalu banyak forum yang dibuka sehingga peserta yang ingin bertanya/berkontribusi menjadi bingung ingin mengirim kemana.
-            - Whatsapp
-                Tidak bisa melihat siapa yang tidak read sehingga tidak tahu siapa yang sedang tidak aktif/menghilang
-            - Scripting
-                Sebagian mahasiswa sebenarnya tidak mengerti apa maksud dari script-script yang diberikan, mereka hanya mengcopy dan paste
-                command-command yang sudah dibuat.
-            - GnuPG
-                Ada sangat banyak cara mengoperasikan Gnu sehingga membingungkan jika ada 1 fungsi yang memiliki 2 atau lebih command yang
-                berbeda.
+
+    c. Operating system
+            Karena banyak peserta yang tidak biasa menggunakan badak, mereka menggunakan WSL yang tersedia di dalam Windows atau semacam
+            nya dalam MacOS. Hal ini menyebabkan perbedaan format file yang dibuat oleh peserta tsb dengan berkas-berkas yang dibuat 
+            melalui badak. 
+    d. GitHub
+            Saat melakukan push, terkadang ada peserta lain yang sedang melakukan push juga (terutama dalam absen). Hal ini menyebabkan
+            adanya push yang meng-overwrite perubahan peserta lain sehingga harus di push kembali. Selain itu, masalah yang timbul adalah
+            mahasiswa tidak tahu bahwa mengcopy-paste akan menimbulkan perubahan format text.
+    e. Scele
+            Ada terlalu banyak forum yang dibuka sehingga peserta yang ingin bertanya/berkontribusi menjadi bingung ingin mengirim kemana.
+    f. Whatsapp
+            Selama perkuliahan online OS, grup Whatsapp digunakan sebagai wadah komunikasi/pengumuman dan materi-materi tambahan yang bisa
+            membantu proses pembelajaran. Materi-materi tersebut dapat berupa artikel atau video mengenai suatu topik yang sedang dibahas
+            pada minggu itu. Kekurangannya adalah dalam Whatsapp, kita tidak bisa melihat siapa yang tidak read sehingga tidak tahu siapa 
+            yang sedang tidak aktif/menghilang.
+    g. Scripting
+            Sebagian mahasiswa sebenarnya tidak mengerti apa maksud dari script-script yang diberikan, mereka hanya mengcopy dan paste
+            command-command yang sudah dibuat.
+    h. GnuPG
+            Masalah yang timbul adalah ada sangat banyak cara mengoperasikan Gnu sehingga membingungkan jika ada 1 fungsi yang memiliki 2 atau lebih command yang
+            berbeda.
+    i. Akun Github OS201 bersama
+            Sebelum adanya akun github OS201 bersama, peserta mengalami race condition pada saat absen. Setelah penggunaan akun github OS201 
+            bersama ini, aktifitas pembelajaran menjadi efisien karena push bisa saja ditolak apabila dilakukan bersamaan dengan peserta lain, 
+            sehingga tidak bertabrakan. Akun ini juga menjadi sarana pembentukan kelompok untuk UAS. Selain itu, akun ini menjadi sarana untuk 
+            pemberitahuan informasi mengenai UAS dan submit berkas hasil pengerjaan UAS.
+                
